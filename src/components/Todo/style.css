@@ -1,0 +1,17 @@
+.todo-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+  }
+  
+  .todo-wrapper .text {
+    width: 80%;
+    overflow-x: hidden;
+  }
+  
+  .todo-wrapper .edit {
+    width: 50px;
+  }
+  
+  .todo-wrapper .delete {
+    width: 50px;
+  }
